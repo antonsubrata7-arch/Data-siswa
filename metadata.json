@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Catatan Pelanggaran Siswa & Grafik Kedisiplinan",
+  "description": "Aplikasi pencatatan pelanggaran tata tertib siswa, monitoring poin disiplin, grafik visualisasi statistik interaktif, dan administrasi bimbingan konseling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
